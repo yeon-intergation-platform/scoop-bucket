@@ -1,13 +1,13 @@
 {
-  "//": "Scoop 매니페스트(무료). scoop 이 hash 를 자동 검증하므로 수동 해시검증 불필요. CI 가 0.18.2/ac28af3dfb68c997226352f06740282a6dfddbaf2ea7a4e93fd1d8d05536e544 를 채워 렌더한다.",
-  "version": "0.18.2",
+  "//": "Scoop 매니페스트(무료). scoop 이 hash 를 자동 검증하므로 수동 해시검증 불필요. CI 가 0.19.0/7c9e6df20e6bf86f28ebdc86b5d2a1eefaa411e0021e897bb365317e178acfb0 를 채워 렌더한다.",
+  "version": "0.19.0",
   "description": "커뮤니티 Provider Agent — 내 PC의 로컬 Ollama 를 중앙 서버에 연결",
   "homepage": "https://github.com/Hyeonjun0527/discord-ai-network-bot",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.18.2/discord-ai-network-bot-windows.exe#/discord-ai-network-bot.exe",
-      "hash": "ac28af3dfb68c997226352f06740282a6dfddbaf2ea7a4e93fd1d8d05536e544",
+      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.19.0/discord-ai-network-bot-windows.exe#/discord-ai-network-bot.exe",
+      "hash": "7c9e6df20e6bf86f28ebdc86b5d2a1eefaa411e0021e897bb365317e178acfb0",
       "bin": "discord-ai-network-bot.exe"
     }
   },
