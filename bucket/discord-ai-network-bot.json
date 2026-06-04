@@ -1,14 +1,15 @@
 {
-  "//": "Scoop 매니페스트(무료). scoop 이 hash 를 자동 검증하므로 수동 해시검증 불필요. CI 가 0.26.0/d1307bbd75c319cc070ca0af60dbf2dfae98477b5ba95402ea4a69f2c13e6243 를 채워 렌더한다.",
-  "version": "0.26.0",
-  "description": "커뮤니티 Provider Agent — 내 PC의 로컬 Ollama 를 중앙 서버에 연결",
+  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(냥시스턴트 — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.27.0/0c7e715a1860b3b4da9b9a698dac2d99c9907ba70547c18927e6915cee4d67ce 를 채워 렌더한다.",
+  "version": "0.27.0",
+  "description": "냥시스턴트 — 커뮤니티 Provider Agent 데스크톱 앱(내 PC 로컬 Ollama 를 중앙 서버에 연결)",
   "homepage": "https://github.com/Hyeonjun0527/discord-ai-network-bot",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.26.0/discord-ai-network-bot-windows.exe#/discord-ai-network-bot.exe",
-      "hash": "d1307bbd75c319cc070ca0af60dbf2dfae98477b5ba95402ea4a69f2c13e6243",
-      "bin": "discord-ai-network-bot.exe"
+      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.27.0/nyassistant-windows.exe#/nyassistant.exe",
+      "hash": "0c7e715a1860b3b4da9b9a698dac2d99c9907ba70547c18927e6915cee4d67ce",
+      "bin": "nyassistant.exe",
+      "shortcuts": [["nyassistant.exe", "냥시스턴트"]]
     }
   },
   "checkver": {
