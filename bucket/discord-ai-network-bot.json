@@ -1,13 +1,13 @@
 {
-  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(냥시스턴트 — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.27.2/c5afe8f9aa7a342d95079e9cce901e3d3c93e8687ecc067d7f0dda90a586dee5 를 채워 렌더한다.",
-  "version": "0.27.2",
+  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(냥시스턴트 — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.27.3/8c6d2152fa3bebb6247252688018fb5bd195863e2bb00bc73a29544415bdeaf3 를 채워 렌더한다.",
+  "version": "0.27.3",
   "description": "냥시스턴트 — 커뮤니티 Provider Agent 데스크톱 앱(내 PC 로컬 Ollama 를 중앙 서버에 연결)",
   "homepage": "https://github.com/Hyeonjun0527/discord-ai-network-bot",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.27.2/nyassistant-windows.exe#/nyassistant.exe",
-      "hash": "c5afe8f9aa7a342d95079e9cce901e3d3c93e8687ecc067d7f0dda90a586dee5",
+      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.27.3/nyassistant-windows.exe#/nyassistant.exe",
+      "hash": "8c6d2152fa3bebb6247252688018fb5bd195863e2bb00bc73a29544415bdeaf3",
       "bin": "nyassistant.exe",
       "shortcuts": [["nyassistant.exe", "냥시스턴트"]]
     }
