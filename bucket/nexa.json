@@ -1,13 +1,13 @@
 {
-  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(Nexa — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.35.0/a9dab3c74d275a8d0801cbd49e9437393f3417952bff3bd529fd6bd71496f0fb 를 채워 렌더한다.",
-  "version": "0.35.0",
+  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(Nexa — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.36.0/6b3bdcecf8a8e106c1d9ff8c7ceddcc0e0cbb0f69fe5b0ba84ffd50dc922c3d5 를 채워 렌더한다.",
+  "version": "0.36.0",
   "description": "Nexa 데스크톱 앱 — 내 로컬 AI모델을 디스코드 서버/채널에 공유",
   "homepage": "https://github.com/Hyeonjun0527/discord-ai-network-bot",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.35.0/nexa-windows.exe#/nexa.exe",
-      "hash": "a9dab3c74d275a8d0801cbd49e9437393f3417952bff3bd529fd6bd71496f0fb",
+      "url": "https://github.com/Hyeonjun0527/discord-ai-network-bot/releases/download/agent-v0.36.0/nexa-windows.exe#/nexa.exe",
+      "hash": "6b3bdcecf8a8e106c1d9ff8c7ceddcc0e0cbb0f69fe5b0ba84ffd50dc922c3d5",
       "bin": "nexa.exe",
       "shortcuts": [["nexa.exe", "Nexa"]]
     }
