@@ -1,13 +1,13 @@
 {
-  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(Nexa — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.55.0/cb299f8284f291d5f3dac7a27ef051783efbd19fab6396c11dc176f92d3357ab 를 채워 렌더한다.",
-  "version": "0.55.0",
+  "//": "Scoop 매니페스트(무료). 설치 대상은 데스크톱 GUI 앱(Nexa — 맥 .app 과 동일한 네이티브 창). scoop 이 hash 자동 검증. CI 가 0.55.1/32db827469c284404629071bdc1b158db91551919bffee4be508a162409f6c4d 를 채워 렌더한다.",
+  "version": "0.55.1",
   "description": "Nexa 데스크톱 앱 — 내 로컬 AI모델을 디스코드 서버/채널에 공유",
   "homepage": "https://github.com/yeon-intergation-platform/nexa-releases",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/yeon-intergation-platform/nexa-releases/releases/download/agent-v0.55.0/nexa-windows.exe#/nexa.exe",
-      "hash": "cb299f8284f291d5f3dac7a27ef051783efbd19fab6396c11dc176f92d3357ab",
+      "url": "https://github.com/yeon-intergation-platform/nexa-releases/releases/download/agent-v0.55.1/nexa-windows.exe#/nexa.exe",
+      "hash": "32db827469c284404629071bdc1b158db91551919bffee4be508a162409f6c4d",
       "bin": "nexa.exe",
       "shortcuts": [["nexa.exe", "Nexa"]]
     }
